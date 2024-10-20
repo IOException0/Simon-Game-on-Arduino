@@ -22,6 +22,8 @@ Game Features:
 3D Printed Encloser.
 Speaker for tone generation.
 
+Images of PCB can be found in the PCB Folder.
+
 Thank You.
 
 ![colorButtons1](https://github.com/user-attachments/assets/9487575d-f79b-4c58-bfdf-c697182987a6)
@@ -30,7 +32,8 @@ Thank You.
 
 ![simonGame0](https://github.com/user-attachments/assets/571dd816-83c3-4d0a-bcfe-83d70526bb7c)
 
-![bottomCover](https://github.com/user-attachments/assets/9794c6e6-bf21-4fd9-9f86-66980127116c)
+![verticalSimon](https://github.com/user-attachments/assets/90681dc3-7d14-46da-b960-ca0144687ecf)
+
 
 
 
