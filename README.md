@@ -20,13 +20,13 @@ Three Games are available:
 Game Features:
 7-Segment Display for Score.
 3D Printed Encloser.
-Speaker.
+Speaker for tone generation.
 
 Thank You.
 
 ![colorButtons1](https://github.com/user-attachments/assets/9487575d-f79b-4c58-bfdf-c697182987a6)
 
-![bottomCover](https://github.com/user-attachments/assets/b713039d-499d-4d16-bbe1-71da51a946e1)
+![bottomCover](https://github.com/user-attachments/assets/791608fb-6c81-473d-8dd3-6cd50f60e536)
 
 ![simonWithTop BottomCover1](https://github.com/user-attachments/assets/77982b93-c4c7-4fe1-98f8-1d38baa65c5f)
 
