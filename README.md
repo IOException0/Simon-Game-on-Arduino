@@ -1,15 +1,31 @@
-The Classic Simon Game is implemented on the Arduino.
+My Version of the Classic Simon Game which is implemented on Arduino.
 
-Select between three games!
-  1. Simon Says. (Different levels of difficulty)
-  2. Player Says.
-  3. Add the color. (Multiplayer)
-7-Segment display for the score.
-Speaker for tones.
+Code:
+The code for the project can be found in the SimonGame.ino (For Arudino UNO) and SimonGameNano.ino (For Arudion NANO).
 
-This video demonstrates how the game works. https://youtu.be/ujJS4dphBKc
+Gerber Files:
+If you want to manufacture the Printed Circuit Board (PBC), Gerber, NCDrill and STEP files are in SimonGameGerber.zip.
 
-Currently, the game is prototyped on the breadboard.
-Soon I'll add the schematic and gerber files.
+Fork on CircuitMaker: (Edit Schematic)
+https://circuitmaker.com/Projects/Details/IOException/simonGameClone
+
+Simon Game Gameplay:
+https://youtu.be/hBwjQQfj5sY?si=1YIlOAdP8EXrhW1r
+
+Three Games are available:
+1. Simon Says.
+2. Player Says.
+3. Add a Color. (Multi-Player)
+
+Game Features:
+7-Segment Display for Score.
+3D Printed Encloser.
+Speaker.
 
 Thank You.
+
+![colorButtons1](https://github.com/user-attachments/assets/9487575d-f79b-4c58-bfdf-c697182987a6)
+![simonWithTop BottomCover1](https://github.com/user-attachments/assets/77982b93-c4c7-4fe1-98f8-1d38baa65c5f)
+![simonGame0](https://github.com/user-attachments/assets/571dd816-83c3-4d0a-bcfe-83d70526bb7c)
+
+
