@@ -32,8 +32,6 @@ Thank You.
 
 ![simonGame0](https://github.com/user-attachments/assets/571dd816-83c3-4d0a-bcfe-83d70526bb7c)
 
-![verticalSimon](https://github.com/user-attachments/assets/90681dc3-7d14-46da-b960-ca0144687ecf)
-
 https://github.com/user-attachments/assets/b153d46f-4b07-4202-8523-d531bbba231f
 
 
